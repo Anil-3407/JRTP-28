@@ -9,5 +9,10 @@ class Product{
             System.out.println(result);
         }
 
+        System.out.println(k);
+        int value=j+k;
+        System.out.println(value);
+        
+
     }
 }
