@@ -12,7 +12,7 @@ class Product{
         System.out.println(k);
         int value=j+k;
         System.out.println(value);
-        // Anil is Good Developer
+        
 
     }
 }
